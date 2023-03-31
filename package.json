@@ -8,6 +8,20 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizaniqbalLC/react-starting-template-by-vite.git"
+  },
+  "keywords": [
+    "console log colors",
+    "success  error info "
+  ],
+  "author": "Muhammad Fizan Iqbal <se.fizaniqbal2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faizaniqbalLC/react-starting-template-by-vite/issues"
+  },
+  "homepage": "https://github.com/faizaniqbalLC/react-starting-template-by-vite#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
