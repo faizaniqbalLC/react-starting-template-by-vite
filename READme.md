@@ -1,6 +1,6 @@
-# react-starting-template-by-vite
+**react-starting-template-by-vite**
 
-# Getting Started with Starter Template of react-starting-template-by-vite
+Getting Started with Starter Template of react-starting-template-by-vite
 
 ### `Vite`
 
